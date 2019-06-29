@@ -4,8 +4,8 @@ This is submission of the [challenge](https://fellowship.ai/challenge) of the Fe
 
 The most important sections are:
 
-- [Part 1: Language Model and Fine Tuning](Twitter US Airline Sentiment - 1. Language Model.ipynb)
-- [Part 2: Text Classification Task with ULMFiT](Twitter US Airline Sentiment - 2. Classifier with ULMFiT.ipynb)
+- [Part 1: Language Model and Fine Tuning](Twitter%20US%20Airline%20Sentiment%20-%201.%20Language%20Model.ipynb)
+- [Part 2: Text Classification Task with ULMFiT](Twitter%20US%20Airline%20Sentiment%20-%202.%20Classifier%20with%20ULMFiT.ipynb)
 - The discussion at the end of part 2, with some ideas of weaknesses and possible improvements.
 
 But to have a complete picture:
